@@ -99,8 +99,8 @@ section {
 .brand{
     width: 170px; 
     height: 85px;
-    margin-left: -15;
-    margin-right: 60;
+    margin-left: -15px;
+    margin-right: 60px;
 }
 
 .logo{
@@ -144,8 +144,8 @@ section {
 .account{
     text-align: right;
     padding: 15px;
-    color: #364147;
     size: 18px;
+    color: #364147;
 }
 
 .account a {
