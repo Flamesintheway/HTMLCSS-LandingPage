@@ -185,7 +185,7 @@ section {
     line-height: 0.9;
 }
 
-.hero > p{
+.hero p{
     word-spacing: 2px;
     font-weight: 700;
     font-size: 21px;
