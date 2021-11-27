@@ -337,7 +337,7 @@ footer:after{
 
 .lists{
     flex: 0 0 75%;
-    padding: 40px
+    padding: 40px 15px;
 }
 
 .link-header{
@@ -371,19 +371,19 @@ footer a:hover{
 }
 
 .twitter{
-    background-image: url('../img/twitter.jpg');
+    background-image: url('../img/twitter.svg');
 }
 
 .facebook{
-    background-image: url('../img/facebook.jpg');
+    background-image: url('../img/facebook.svg');
 }
 
 .instagram{
-    background-image: url('../img/instagram.jpg');
+    background-image: url('../img/instagram.svg');
 }
 
 .pinterest{
-    background-image: url('../img/pinterest.jpg');
+    background-image: url('../img/pinterest.svg');
 }
 
 .newsletter .link-header{
@@ -419,7 +419,7 @@ footer a:hover{
     font-size: 16px;
 }
 
-.ps image{
+.ps img{
     max-width: 230px;
 }
 
