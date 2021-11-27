@@ -252,7 +252,7 @@ section {
     position: relative;
 }
 
-.full-banner >div:before{
+.full-banner:before{
     content: "";
     position: absolute;
     border: 1px solid #ffffff;
